@@ -13,7 +13,7 @@
 		5B713C4B1D82D65100F9F4F8 /* AsynchronousOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B713C351D82D52800F9F4F8 /* AsynchronousOperation.m */; };
 		5B713C4C1D82D69500F9F4F8 /* AFHTTPSessionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B713C301D82D52800F9F4F8 /* AFHTTPSessionOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5B713C4D1D82D69500F9F4F8 /* AFURLSessionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B713C321D82D52800F9F4F8 /* AFURLSessionOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5B713C4E1D82D6A900F9F4F8 /* AsynchronousOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B713C341D82D52800F9F4F8 /* AsynchronousOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5B713C4E1D82D6A900F9F4F8 /* AsynchronousOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B713C341D82D52800F9F4F8 /* AsynchronousOperation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		5B713C541D86C08B00F9F4F8 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B713C531D86C08B00F9F4F8 /* AFNetworking.framework */; };
 /* End PBXBuildFile section */
 
