@@ -16,4 +16,6 @@ FOUNDATION_EXPORT const unsigned char AFSessionOperationVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AFSessionOperation/PublicHeader.h>
 
+#import <AFSessionOperation/AFHTTPSessionOperation.h>
+#import <AFSessionOperation/AFURLSessionOperation.h>
 
